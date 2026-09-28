@@ -70,7 +70,7 @@ After 10-fold cross-validation, the estimated model score was approximately **0.
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/Correlation%20Heatmap.png)
+![Correlation Heatmap](images/Heatmap.png)
 
 The heatmap was used to examine relationships between housing variables and identify potential multicollinearity.
 
@@ -78,7 +78,7 @@ The heatmap was used to examine relationships between housing variables and iden
 
 ### Multicollinearity Analysis
 
-![VIF Analysis](images/VIF%20Analysis.png)
+![VIF Analysis](images/VIF.png)
 
 Variance Inflation Factor analysis was used to identify highly correlated predictors and guide feature removal.
 
@@ -86,7 +86,7 @@ Variance Inflation Factor analysis was used to identify highly correlated predic
 
 ### Regression Diagnostics
 
-![Regression Diagnostics](images/Regression%20Diagnostics.png)
+![Regression Diagnostics](images/Residual%20Plot.png)
 
 Regression diagnostics were used to evaluate assumptions such as residual behavior, homoscedasticity, and normality.
 
